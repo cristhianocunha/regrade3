@@ -1,4 +1,4 @@
-### regra de 3 Simples 👋
+### Regra de 3 Simples 👋
 
 <!--
 **Cristhianocunha/cristhianocunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
